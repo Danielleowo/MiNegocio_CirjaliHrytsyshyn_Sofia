@@ -1,0 +1,14 @@
+D:\_INPRO\UT2\MiNegocio_CirjaliHrytsyshyn_Sofia\obj\Debug\net10.0\MiNegocio_CirjaliHrytsyshyn_Sofia.GeneratedMSBuildEditorConfig.editorconfig
+D:\_INPRO\UT2\MiNegocio_CirjaliHrytsyshyn_Sofia\obj\Debug\net10.0\MiNegocio_CirjaliHrytsyshyn_Sofia.AssemblyInfoInputs.cache
+D:\_INPRO\UT2\MiNegocio_CirjaliHrytsyshyn_Sofia\obj\Debug\net10.0\MiNegocio_CirjaliHrytsyshyn_Sofia.AssemblyInfo.cs
+D:\_INPRO\UT2\MiNegocio_CirjaliHrytsyshyn_Sofia\obj\Debug\net10.0\MiNegocio_CirjaliHrytsyshyn_Sofia.csproj.CoreCompileInputs.cache
+D:\_INPRO\UT2\MiNegocio_CirjaliHrytsyshyn_Sofia\bin\Debug\net10.0\MiNegocio_CirjaliHrytsyshyn_Sofia.exe
+D:\_INPRO\UT2\MiNegocio_CirjaliHrytsyshyn_Sofia\bin\Debug\net10.0\MiNegocio_CirjaliHrytsyshyn_Sofia.deps.json
+D:\_INPRO\UT2\MiNegocio_CirjaliHrytsyshyn_Sofia\bin\Debug\net10.0\MiNegocio_CirjaliHrytsyshyn_Sofia.runtimeconfig.json
+D:\_INPRO\UT2\MiNegocio_CirjaliHrytsyshyn_Sofia\bin\Debug\net10.0\MiNegocio_CirjaliHrytsyshyn_Sofia.dll
+D:\_INPRO\UT2\MiNegocio_CirjaliHrytsyshyn_Sofia\bin\Debug\net10.0\MiNegocio_CirjaliHrytsyshyn_Sofia.pdb
+D:\_INPRO\UT2\MiNegocio_CirjaliHrytsyshyn_Sofia\obj\Debug\net10.0\MiNegocio_CirjaliHrytsyshyn_Sofia.dll
+D:\_INPRO\UT2\MiNegocio_CirjaliHrytsyshyn_Sofia\obj\Debug\net10.0\refint\MiNegocio_CirjaliHrytsyshyn_Sofia.dll
+D:\_INPRO\UT2\MiNegocio_CirjaliHrytsyshyn_Sofia\obj\Debug\net10.0\MiNegocio_CirjaliHrytsyshyn_Sofia.pdb
+D:\_INPRO\UT2\MiNegocio_CirjaliHrytsyshyn_Sofia\obj\Debug\net10.0\MiNegocio_CirjaliHrytsyshyn_Sofia.genruntimeconfig.cache
+D:\_INPRO\UT2\MiNegocio_CirjaliHrytsyshyn_Sofia\obj\Debug\net10.0\ref\MiNegocio_CirjaliHrytsyshyn_Sofia.dll
